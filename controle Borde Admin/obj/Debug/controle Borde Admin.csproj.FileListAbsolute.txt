@@ -1,0 +1,20 @@
+C:\Users\HP\Documents\Visual Studio 2015\Projects\projetPocFinal\controle Borde Admin\bin\Debug\controle Borde Admin.exe.config
+C:\Users\HP\Documents\Visual Studio 2015\Projects\projetPocFinal\controle Borde Admin\bin\Debug\controle Borde Admin.exe
+C:\Users\HP\Documents\Visual Studio 2015\Projects\projetPocFinal\controle Borde Admin\bin\Debug\controle Borde Admin.pdb
+C:\Users\HP\Documents\Visual Studio 2015\Projects\projetPocFinal\controle Borde Admin\bin\Debug\interfaceMedcin.dll
+C:\Users\HP\Documents\Visual Studio 2015\Projects\projetPocFinal\controle Borde Admin\bin\Debug\MySql.Data.dll
+C:\Users\HP\Documents\Visual Studio 2015\Projects\projetPocFinal\controle Borde Admin\bin\Debug\Google.Protobuf.dll
+C:\Users\HP\Documents\Visual Studio 2015\Projects\projetPocFinal\controle Borde Admin\bin\Debug\interfaceMedcin.pdb
+C:\Users\HP\Documents\Visual Studio 2015\Projects\projetPocFinal\controle Borde Admin\bin\Debug\MySql.Data.xml
+C:\Users\HP\Documents\Visual Studio 2015\Projects\projetPocFinal\controle Borde Admin\obj\Debug\controle_Borde_Admin.auto.resources
+C:\Users\HP\Documents\Visual Studio 2015\Projects\projetPocFinal\controle Borde Admin\obj\Debug\controle_Borde_Admin.Form1.resources
+C:\Users\HP\Documents\Visual Studio 2015\Projects\projetPocFinal\controle Borde Admin\obj\Debug\controle_Borde_Admin.Gérer_les_Medcin.resources
+C:\Users\HP\Documents\Visual Studio 2015\Projects\projetPocFinal\controle Borde Admin\obj\Debug\controle_Borde_Admin.infermierre.resources
+C:\Users\HP\Documents\Visual Studio 2015\Projects\projetPocFinal\controle Borde Admin\obj\Debug\controle_Borde_Admin.pation.resources
+C:\Users\HP\Documents\Visual Studio 2015\Projects\projetPocFinal\controle Borde Admin\obj\Debug\controle_Borde_Admin.Properties.Resources.resources
+C:\Users\HP\Documents\Visual Studio 2015\Projects\projetPocFinal\controle Borde Admin\obj\Debug\controle Borde Admin.csproj.GenerateResource.Cache
+C:\Users\HP\Documents\Visual Studio 2015\Projects\projetPocFinal\controle Borde Admin\obj\Debug\controle Borde Admin.exe
+C:\Users\HP\Documents\Visual Studio 2015\Projects\projetPocFinal\controle Borde Admin\obj\Debug\controle Borde Admin.pdb
+C:\Users\Anonyme\projetPocFinal\controle Borde Admin\bin\Debug\controle Borde Admin.exe.config
+C:\Users\Anonyme\projetPocFinal\controle Borde Admin\obj\Debug\controle Borde Admin.exe
+C:\Users\Anonyme\projetPocFinal\controle Borde Admin\obj\Debug\controle Borde Admin.pdb

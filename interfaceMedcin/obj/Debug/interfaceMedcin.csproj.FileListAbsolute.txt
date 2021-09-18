@@ -1,0 +1,4 @@
+C:\Users\HP\Documents\Visual Studio 2015\Projects\projetPocFinal\interfaceMedcin\bin\Debug\interfaceMedcin.dll
+C:\Users\HP\Documents\Visual Studio 2015\Projects\projetPocFinal\interfaceMedcin\bin\Debug\interfaceMedcin.pdb
+C:\Users\HP\Documents\Visual Studio 2015\Projects\projetPocFinal\interfaceMedcin\obj\Debug\interfaceMedcin.dll
+C:\Users\HP\Documents\Visual Studio 2015\Projects\projetPocFinal\interfaceMedcin\obj\Debug\interfaceMedcin.pdb

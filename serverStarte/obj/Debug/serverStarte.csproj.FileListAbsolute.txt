@@ -1,0 +1,26 @@
+C:\Users\HP\Documents\Visual Studio 2015\Projects\projetPocFinal\serverStarte\bin\Debug\serverStarte.exe.config
+C:\Users\HP\Documents\Visual Studio 2015\Projects\projetPocFinal\serverStarte\bin\Debug\serverStarte.exe
+C:\Users\HP\Documents\Visual Studio 2015\Projects\projetPocFinal\serverStarte\bin\Debug\serverStarte.pdb
+C:\Users\HP\Documents\Visual Studio 2015\Projects\projetPocFinal\serverStarte\bin\Debug\interfaceMedcin.dll
+C:\Users\HP\Documents\Visual Studio 2015\Projects\projetPocFinal\serverStarte\bin\Debug\MySql.Data.dll
+C:\Users\HP\Documents\Visual Studio 2015\Projects\projetPocFinal\serverStarte\bin\Debug\MySql.Data.EntityFramework.dll
+C:\Users\HP\Documents\Visual Studio 2015\Projects\projetPocFinal\serverStarte\bin\Debug\MySQL.Data.EntityFrameworkCore.Design.dll
+C:\Users\HP\Documents\Visual Studio 2015\Projects\projetPocFinal\serverStarte\bin\Debug\MySQL.Data.EntityFrameworkCore.dll
+C:\Users\HP\Documents\Visual Studio 2015\Projects\projetPocFinal\serverStarte\bin\Debug\MySql.Web.dll
+C:\Users\HP\Documents\Visual Studio 2015\Projects\projetPocFinal\serverStarte\bin\Debug\Google.Protobuf.dll
+C:\Users\HP\Documents\Visual Studio 2015\Projects\projetPocFinal\serverStarte\bin\Debug\interfaceMedcin.pdb
+C:\Users\HP\Documents\Visual Studio 2015\Projects\projetPocFinal\serverStarte\bin\Debug\MySql.Data.xml
+C:\Users\HP\Documents\Visual Studio 2015\Projects\projetPocFinal\serverStarte\bin\Debug\MySql.Data.EntityFramework.xml
+C:\Users\HP\Documents\Visual Studio 2015\Projects\projetPocFinal\serverStarte\bin\Debug\MySQL.Data.EntityFrameworkCore.xml
+C:\Users\HP\Documents\Visual Studio 2015\Projects\projetPocFinal\serverStarte\bin\Debug\MySQL.Data.EntityFrameworkCore.Design.xml
+C:\Users\HP\Documents\Visual Studio 2015\Projects\projetPocFinal\serverStarte\bin\Debug\MySql.Web.xml
+C:\Users\HP\Documents\Visual Studio 2015\Projects\projetPocFinal\serverStarte\obj\Debug\serverStarte.csprojResolveAssemblyReference.cache
+C:\Users\HP\Documents\Visual Studio 2015\Projects\projetPocFinal\serverStarte\obj\Debug\serverStarte.csproj.serverStarte.exe.config
+C:\Users\HP\Documents\Visual Studio 2015\Projects\projetPocFinal\serverStarte\obj\Debug\serverStarte.Form1.resources
+C:\Users\HP\Documents\Visual Studio 2015\Projects\projetPocFinal\serverStarte\obj\Debug\serverStarte.Properties.Resources.resources
+C:\Users\HP\Documents\Visual Studio 2015\Projects\projetPocFinal\serverStarte\obj\Debug\serverStarte.csproj.GenerateResource.Cache
+C:\Users\HP\Documents\Visual Studio 2015\Projects\projetPocFinal\serverStarte\obj\Debug\serverStarte.exe
+C:\Users\HP\Documents\Visual Studio 2015\Projects\projetPocFinal\serverStarte\obj\Debug\serverStarte.pdb
+C:\Users\Anonyme\projetPocFinal\serverStarte\bin\Debug\serverStarte.exe.config
+C:\Users\Anonyme\projetPocFinal\serverStarte\obj\Debug\serverStarte.exe
+C:\Users\Anonyme\projetPocFinal\serverStarte\obj\Debug\serverStarte.pdb

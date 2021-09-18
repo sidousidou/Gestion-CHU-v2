@@ -1,0 +1,16 @@
+C:\Users\HP\Documents\Visual Studio 2015\Projects\projetPocFinal\Medcine\bin\Debug\Medcine.exe.config
+C:\Users\HP\Documents\Visual Studio 2015\Projects\projetPocFinal\Medcine\bin\Debug\Medcine.exe
+C:\Users\HP\Documents\Visual Studio 2015\Projects\projetPocFinal\Medcine\bin\Debug\Medcine.pdb
+C:\Users\HP\Documents\Visual Studio 2015\Projects\projetPocFinal\Medcine\bin\Debug\ClassLibrary1.dll
+C:\Users\HP\Documents\Visual Studio 2015\Projects\projetPocFinal\Medcine\bin\Debug\ClassLibrary1.pdb
+C:\Users\HP\Documents\Visual Studio 2015\Projects\projetPocFinal\Medcine\obj\Debug\Medcine.Descrtion.resources
+C:\Users\HP\Documents\Visual Studio 2015\Projects\projetPocFinal\Medcine\obj\Debug\Medcine.Form1.resources
+C:\Users\HP\Documents\Visual Studio 2015\Projects\projetPocFinal\Medcine\obj\Debug\Medcine.Form2.resources
+C:\Users\HP\Documents\Visual Studio 2015\Projects\projetPocFinal\Medcine\obj\Debug\Medcine.Manage.resources
+C:\Users\HP\Documents\Visual Studio 2015\Projects\projetPocFinal\Medcine\obj\Debug\Medcine.Properties.Resources.resources
+C:\Users\HP\Documents\Visual Studio 2015\Projects\projetPocFinal\Medcine\obj\Debug\Medcine.csproj.GenerateResource.Cache
+C:\Users\HP\Documents\Visual Studio 2015\Projects\projetPocFinal\Medcine\obj\Debug\Medcine.exe
+C:\Users\HP\Documents\Visual Studio 2015\Projects\projetPocFinal\Medcine\obj\Debug\Medcine.pdb
+C:\Users\Anonyme\projetPocFinal\Medcine\bin\Debug\Medcine.exe.config
+C:\Users\Anonyme\projetPocFinal\Medcine\obj\Debug\Medcine.exe
+C:\Users\Anonyme\projetPocFinal\Medcine\obj\Debug\Medcine.pdb

@@ -1,0 +1,14 @@
+C:\Users\HP\Documents\Visual Studio 2015\Projects\projetPocFinal\ServerShowPationStart\bin\Debug\ServerShowPationStart.exe.config
+C:\Users\HP\Documents\Visual Studio 2015\Projects\projetPocFinal\ServerShowPationStart\bin\Debug\ServerShowPationStart.exe
+C:\Users\HP\Documents\Visual Studio 2015\Projects\projetPocFinal\ServerShowPationStart\bin\Debug\ServerShowPationStart.pdb
+C:\Users\HP\Documents\Visual Studio 2015\Projects\projetPocFinal\ServerShowPationStart\bin\Debug\ClassLibrary1.dll
+C:\Users\HP\Documents\Visual Studio 2015\Projects\projetPocFinal\ServerShowPationStart\bin\Debug\MySql.Data.dll
+C:\Users\HP\Documents\Visual Studio 2015\Projects\projetPocFinal\ServerShowPationStart\bin\Debug\Google.Protobuf.dll
+C:\Users\HP\Documents\Visual Studio 2015\Projects\projetPocFinal\ServerShowPationStart\bin\Debug\ClassLibrary1.pdb
+C:\Users\HP\Documents\Visual Studio 2015\Projects\projetPocFinal\ServerShowPationStart\bin\Debug\MySql.Data.xml
+C:\Users\HP\Documents\Visual Studio 2015\Projects\projetPocFinal\ServerShowPationStart\obj\Debug\ServerShowMedcinStart.csprojResolveAssemblyReference.cache
+C:\Users\HP\Documents\Visual Studio 2015\Projects\projetPocFinal\ServerShowPationStart\obj\Debug\ServerShowPationStart.Form1.resources
+C:\Users\HP\Documents\Visual Studio 2015\Projects\projetPocFinal\ServerShowPationStart\obj\Debug\ServerShowPationStart.Properties.Resources.resources
+C:\Users\HP\Documents\Visual Studio 2015\Projects\projetPocFinal\ServerShowPationStart\obj\Debug\ServerShowMedcinStart.csproj.GenerateResource.Cache
+C:\Users\HP\Documents\Visual Studio 2015\Projects\projetPocFinal\ServerShowPationStart\obj\Debug\ServerShowPationStart.exe
+C:\Users\HP\Documents\Visual Studio 2015\Projects\projetPocFinal\ServerShowPationStart\obj\Debug\ServerShowPationStart.pdb

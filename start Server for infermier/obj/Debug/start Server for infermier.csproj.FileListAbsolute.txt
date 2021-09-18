@@ -1,0 +1,14 @@
+C:\Users\HP\Documents\Visual Studio 2015\Projects\projetPocFinal\start Server for infermier\bin\Debug\start Server for infermier.exe.config
+C:\Users\HP\Documents\Visual Studio 2015\Projects\projetPocFinal\start Server for infermier\bin\Debug\start Server for infermier.exe
+C:\Users\HP\Documents\Visual Studio 2015\Projects\projetPocFinal\start Server for infermier\bin\Debug\start Server for infermier.pdb
+C:\Users\HP\Documents\Visual Studio 2015\Projects\projetPocFinal\start Server for infermier\bin\Debug\ClassLibrary3.dll
+C:\Users\HP\Documents\Visual Studio 2015\Projects\projetPocFinal\start Server for infermier\bin\Debug\MySql.Data.dll
+C:\Users\HP\Documents\Visual Studio 2015\Projects\projetPocFinal\start Server for infermier\bin\Debug\Google.Protobuf.dll
+C:\Users\HP\Documents\Visual Studio 2015\Projects\projetPocFinal\start Server for infermier\bin\Debug\ClassLibrary3.pdb
+C:\Users\HP\Documents\Visual Studio 2015\Projects\projetPocFinal\start Server for infermier\bin\Debug\MySql.Data.xml
+C:\Users\HP\Documents\Visual Studio 2015\Projects\projetPocFinal\start Server for infermier\obj\Debug\start Server for infermier.csprojResolveAssemblyReference.cache
+C:\Users\HP\Documents\Visual Studio 2015\Projects\projetPocFinal\start Server for infermier\obj\Debug\start_Server_for_infermier.Form1.resources
+C:\Users\HP\Documents\Visual Studio 2015\Projects\projetPocFinal\start Server for infermier\obj\Debug\start_Server_for_infermier.Properties.Resources.resources
+C:\Users\HP\Documents\Visual Studio 2015\Projects\projetPocFinal\start Server for infermier\obj\Debug\start Server for infermier.csproj.GenerateResource.Cache
+C:\Users\HP\Documents\Visual Studio 2015\Projects\projetPocFinal\start Server for infermier\obj\Debug\start Server for infermier.exe
+C:\Users\HP\Documents\Visual Studio 2015\Projects\projetPocFinal\start Server for infermier\obj\Debug\start Server for infermier.pdb

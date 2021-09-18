@@ -1,0 +1,3 @@
+C:\Users\Anonyme\projetPocFinal\ServerShowPationStart\bin\Debug\ServerShowPationStart.exe.config
+C:\Users\Anonyme\projetPocFinal\ServerShowPationStart\obj\Debug\ServerShowPationStart.exe
+C:\Users\Anonyme\projetPocFinal\ServerShowPationStart\obj\Debug\ServerShowPationStart.pdb
